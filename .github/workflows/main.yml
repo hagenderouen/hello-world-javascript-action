@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: hagenderouen/hello-world-javascript-action@v1.1
+        uses: hagenderouen/hello-world-javascript-action@v1.1.1
         with:
           who-to-greet: Mona the Octocat
 
